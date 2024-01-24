@@ -19,7 +19,7 @@
 #您可以在这里修改Guacamole源码下载链接。
 #访问https://guacamole.apache.org/releases/获取最新源码。
 
-GUACAMOLE_DOWNLOAD_LINK="https://mirrors.ocf.berkeley.edu/apache/guacamole/1.2.0/source/guacamole-server-1.5.4.tar.gz"
+GUACAMOLE_DOWNLOAD_LINK="https://mirrors.ocf.berkeley.edu/apache/guacamole/1.5.4/source/guacamole-server-1.5.4.tar.gz"
 GUACAMOLE_VERSION="1.5.4"
 
 #此脚本仅支持Ubuntu 18/20, Debian 10, 以及CentOS 7/8.
