@@ -26,7 +26,7 @@ A one-click script that installs a remote desktop environment on a Linux server 
 * You need a domain name (can be a subdomain) which points to the IP address of your server.
 * Then, please run the following command as a sudo user in SSH.
 ```
-wget https://github.com/aeplio/OneClickDesktop-littleup/blob/master/OneClickDesktop_zh-CN.sh && sudo bash OneClickDesktop_zh-CN.sh
+wget https://raw.githubusercontent.com/aeplio/OneClickDesktop-littleup/master/OneClickDesktop_zh-CN.sh && sudo bash OneClickDesktop_zh-CN.sh
 
 ```
 * The script will guide you through the installation process.
