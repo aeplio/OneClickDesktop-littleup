@@ -1,4 +1,5 @@
 Based on the original script, the system version detection was turned off and the Guacamole version was upgraded to the latest 1.5.4.
+
 #在原脚本的基础上，关闭了系统版本检测，并将Guacamole版本升级至最新的1.5.4。
 
 
